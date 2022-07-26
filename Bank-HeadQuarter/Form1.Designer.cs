@@ -55,7 +55,7 @@
             this.comboBox2.Items.AddRange(new object[] {
             "Deposit",
             "Whidraw"});
-            this.comboBox2.Location = new System.Drawing.Point(185, 134);
+            this.comboBox2.Location = new System.Drawing.Point(125, 104);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(121, 23);
             this.comboBox2.TabIndex = 0;
