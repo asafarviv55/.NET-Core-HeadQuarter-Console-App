@@ -97,6 +97,15 @@
             // comboBox3
             // 
             this.comboBox3.FormattingEnabled = true;
+            this.comboBox3.Items.AddRange(new object[] {
+            "100",
+            "500",
+            "1000",
+            "2000",
+            "3000",
+            "4000",
+            "5000",
+            "10000"});
             this.comboBox3.Location = new System.Drawing.Point(257, 155);
             this.comboBox3.Name = "comboBox3";
             this.comboBox3.Size = new System.Drawing.Size(121, 23);
